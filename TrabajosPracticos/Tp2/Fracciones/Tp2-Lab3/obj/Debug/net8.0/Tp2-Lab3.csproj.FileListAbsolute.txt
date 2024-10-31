@@ -1,0 +1,28 @@
+C:\Users\sahid\source\repos\Tp2-Lab3\Tp2-Lab3\bin\Debug\net8.0\Tp2-Lab3.exe
+C:\Users\sahid\source\repos\Tp2-Lab3\Tp2-Lab3\bin\Debug\net8.0\Tp2-Lab3.deps.json
+C:\Users\sahid\source\repos\Tp2-Lab3\Tp2-Lab3\bin\Debug\net8.0\Tp2-Lab3.runtimeconfig.json
+C:\Users\sahid\source\repos\Tp2-Lab3\Tp2-Lab3\bin\Debug\net8.0\Tp2-Lab3.dll
+C:\Users\sahid\source\repos\Tp2-Lab3\Tp2-Lab3\bin\Debug\net8.0\Tp2-Lab3.pdb
+C:\Users\sahid\source\repos\Tp2-Lab3\Tp2-Lab3\obj\Debug\net8.0\Tp2-Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahid\source\repos\Tp2-Lab3\Tp2-Lab3\obj\Debug\net8.0\Tp2-Lab3.AssemblyInfoInputs.cache
+C:\Users\sahid\source\repos\Tp2-Lab3\Tp2-Lab3\obj\Debug\net8.0\Tp2-Lab3.AssemblyInfo.cs
+C:\Users\sahid\source\repos\Tp2-Lab3\Tp2-Lab3\obj\Debug\net8.0\Tp2-Lab3.csproj.CoreCompileInputs.cache
+C:\Users\sahid\source\repos\Tp2-Lab3\Tp2-Lab3\obj\Debug\net8.0\Tp2-Lab3.dll
+C:\Users\sahid\source\repos\Tp2-Lab3\Tp2-Lab3\obj\Debug\net8.0\refint\Tp2-Lab3.dll
+C:\Users\sahid\source\repos\Tp2-Lab3\Tp2-Lab3\obj\Debug\net8.0\Tp2-Lab3.pdb
+C:\Users\sahid\source\repos\Tp2-Lab3\Tp2-Lab3\obj\Debug\net8.0\Tp2-Lab3.genruntimeconfig.cache
+C:\Users\sahid\source\repos\Tp2-Lab3\Tp2-Lab3\obj\Debug\net8.0\ref\Tp2-Lab3.dll
+C:\Users\sahid\source\repos\Tp2 LabIII\Tp2-Lab3\Tp2-Lab3\bin\Debug\net8.0\Tp2-Lab3.exe
+C:\Users\sahid\source\repos\Tp2 LabIII\Tp2-Lab3\Tp2-Lab3\bin\Debug\net8.0\Tp2-Lab3.deps.json
+C:\Users\sahid\source\repos\Tp2 LabIII\Tp2-Lab3\Tp2-Lab3\bin\Debug\net8.0\Tp2-Lab3.runtimeconfig.json
+C:\Users\sahid\source\repos\Tp2 LabIII\Tp2-Lab3\Tp2-Lab3\bin\Debug\net8.0\Tp2-Lab3.dll
+C:\Users\sahid\source\repos\Tp2 LabIII\Tp2-Lab3\Tp2-Lab3\bin\Debug\net8.0\Tp2-Lab3.pdb
+C:\Users\sahid\source\repos\Tp2 LabIII\Tp2-Lab3\Tp2-Lab3\obj\Debug\net8.0\Tp2-Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahid\source\repos\Tp2 LabIII\Tp2-Lab3\Tp2-Lab3\obj\Debug\net8.0\Tp2-Lab3.AssemblyInfoInputs.cache
+C:\Users\sahid\source\repos\Tp2 LabIII\Tp2-Lab3\Tp2-Lab3\obj\Debug\net8.0\Tp2-Lab3.AssemblyInfo.cs
+C:\Users\sahid\source\repos\Tp2 LabIII\Tp2-Lab3\Tp2-Lab3\obj\Debug\net8.0\Tp2-Lab3.csproj.CoreCompileInputs.cache
+C:\Users\sahid\source\repos\Tp2 LabIII\Tp2-Lab3\Tp2-Lab3\obj\Debug\net8.0\Tp2-Lab3.dll
+C:\Users\sahid\source\repos\Tp2 LabIII\Tp2-Lab3\Tp2-Lab3\obj\Debug\net8.0\refint\Tp2-Lab3.dll
+C:\Users\sahid\source\repos\Tp2 LabIII\Tp2-Lab3\Tp2-Lab3\obj\Debug\net8.0\Tp2-Lab3.pdb
+C:\Users\sahid\source\repos\Tp2 LabIII\Tp2-Lab3\Tp2-Lab3\obj\Debug\net8.0\Tp2-Lab3.genruntimeconfig.cache
+C:\Users\sahid\source\repos\Tp2 LabIII\Tp2-Lab3\Tp2-Lab3\obj\Debug\net8.0\ref\Tp2-Lab3.dll

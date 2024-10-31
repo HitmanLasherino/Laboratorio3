@@ -1,0 +1,7 @@
+C:\Users\sahid\source\repos\XmlRead-Write\obj\Debug\XmlRead-Write.csproj.AssemblyReference.cache
+C:\Users\sahid\source\repos\XmlRead-Write\obj\Debug\XmlRead-Write.csproj.CoreCompileInputs.cache
+C:\Users\sahid\source\repos\XmlRead-Write\bin\Debug\XmlRead-Write.exe.config
+C:\Users\sahid\source\repos\XmlRead-Write\bin\Debug\XmlRead-Write.exe
+C:\Users\sahid\source\repos\XmlRead-Write\bin\Debug\XmlRead-Write.pdb
+C:\Users\sahid\source\repos\XmlRead-Write\obj\Debug\XmlRead-Write.exe
+C:\Users\sahid\source\repos\XmlRead-Write\obj\Debug\XmlRead-Write.pdb

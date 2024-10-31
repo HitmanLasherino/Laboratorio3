@@ -1,0 +1,14 @@
+C:\Users\sahid\source\repos\Herencia Y Polimorfismo\Herencia Y Polimorfismo\bin\Debug\net8.0\Herencia Y Polimorfismo.exe
+C:\Users\sahid\source\repos\Herencia Y Polimorfismo\Herencia Y Polimorfismo\bin\Debug\net8.0\Herencia Y Polimorfismo.deps.json
+C:\Users\sahid\source\repos\Herencia Y Polimorfismo\Herencia Y Polimorfismo\bin\Debug\net8.0\Herencia Y Polimorfismo.runtimeconfig.json
+C:\Users\sahid\source\repos\Herencia Y Polimorfismo\Herencia Y Polimorfismo\bin\Debug\net8.0\Herencia Y Polimorfismo.dll
+C:\Users\sahid\source\repos\Herencia Y Polimorfismo\Herencia Y Polimorfismo\bin\Debug\net8.0\Herencia Y Polimorfismo.pdb
+C:\Users\sahid\source\repos\Herencia Y Polimorfismo\Herencia Y Polimorfismo\obj\Debug\net8.0\Herencia Y Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahid\source\repos\Herencia Y Polimorfismo\Herencia Y Polimorfismo\obj\Debug\net8.0\Herencia Y Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\sahid\source\repos\Herencia Y Polimorfismo\Herencia Y Polimorfismo\obj\Debug\net8.0\Herencia Y Polimorfismo.AssemblyInfo.cs
+C:\Users\sahid\source\repos\Herencia Y Polimorfismo\Herencia Y Polimorfismo\obj\Debug\net8.0\Herencia Y Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\sahid\source\repos\Herencia Y Polimorfismo\Herencia Y Polimorfismo\obj\Debug\net8.0\Herencia Y Polimorfismo.dll
+C:\Users\sahid\source\repos\Herencia Y Polimorfismo\Herencia Y Polimorfismo\obj\Debug\net8.0\refint\Herencia Y Polimorfismo.dll
+C:\Users\sahid\source\repos\Herencia Y Polimorfismo\Herencia Y Polimorfismo\obj\Debug\net8.0\Herencia Y Polimorfismo.pdb
+C:\Users\sahid\source\repos\Herencia Y Polimorfismo\Herencia Y Polimorfismo\obj\Debug\net8.0\Herencia Y Polimorfismo.genruntimeconfig.cache
+C:\Users\sahid\source\repos\Herencia Y Polimorfismo\Herencia Y Polimorfismo\obj\Debug\net8.0\ref\Herencia Y Polimorfismo.dll

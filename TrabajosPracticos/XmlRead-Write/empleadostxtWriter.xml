@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="no"?>
+<!--Lista de Empleados-->
+<empleados>
+  <listado>
+    <empleado>
+      <id>4884</id>
+      <nombreCompleto>Rodriguez, Victor</nombreCompleto>
+      <cuil>20103180326</cuil>
+      <sector denominacion="Gerencia Recursos Humanos" id="137" valorSemaforo="130.13" colorSemaforo="VERDE" />
+      <cupoAsignado>1837.15</cupoAsignado>
+      <cupoConsumido>685.02</cupoConsumido>
+    </empleado>
+    <empleado>
+      <id>1225</id>
+      <nombreCompleto>Sanchez, Juan Ignacio</nombreCompleto>
+      <cuil>20271265817</cuil>
+      <sector denominacion="Gerencia Operativa" id="44" valorSemaforo="130.13" colorSemaforo="ROJO" />
+      <cupoAsignado>750.87</cupoAsignado>
+      <cupoConsumido>625.46</cupoConsumido>
+    </empleado>
+  </listado>
+  <subsectores>5</subsectores>
+  <totalCupoAsignadoSector>4217.21</totalCupoAsignadoSector>
+  <totalCupoConsumidoSector>1405.88</totalCupoConsumidoSector>
+  <valorDial>33.34</valorDial>
+</empleados>

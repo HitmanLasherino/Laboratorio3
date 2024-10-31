@@ -1,0 +1,14 @@
+C:\Users\sahid\source\repos\HIlos\HIlos\bin\Debug\net8.0\HIlos.exe
+C:\Users\sahid\source\repos\HIlos\HIlos\bin\Debug\net8.0\HIlos.deps.json
+C:\Users\sahid\source\repos\HIlos\HIlos\bin\Debug\net8.0\HIlos.runtimeconfig.json
+C:\Users\sahid\source\repos\HIlos\HIlos\bin\Debug\net8.0\HIlos.dll
+C:\Users\sahid\source\repos\HIlos\HIlos\bin\Debug\net8.0\HIlos.pdb
+C:\Users\sahid\source\repos\HIlos\HIlos\obj\Debug\net8.0\HIlos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahid\source\repos\HIlos\HIlos\obj\Debug\net8.0\HIlos.AssemblyInfoInputs.cache
+C:\Users\sahid\source\repos\HIlos\HIlos\obj\Debug\net8.0\HIlos.AssemblyInfo.cs
+C:\Users\sahid\source\repos\HIlos\HIlos\obj\Debug\net8.0\HIlos.csproj.CoreCompileInputs.cache
+C:\Users\sahid\source\repos\HIlos\HIlos\obj\Debug\net8.0\HIlos.dll
+C:\Users\sahid\source\repos\HIlos\HIlos\obj\Debug\net8.0\refint\HIlos.dll
+C:\Users\sahid\source\repos\HIlos\HIlos\obj\Debug\net8.0\HIlos.pdb
+C:\Users\sahid\source\repos\HIlos\HIlos\obj\Debug\net8.0\HIlos.genruntimeconfig.cache
+C:\Users\sahid\source\repos\HIlos\HIlos\obj\Debug\net8.0\ref\HIlos.dll

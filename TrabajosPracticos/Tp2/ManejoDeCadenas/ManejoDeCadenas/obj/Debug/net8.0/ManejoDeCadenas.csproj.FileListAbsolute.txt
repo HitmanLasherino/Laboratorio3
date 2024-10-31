@@ -1,0 +1,14 @@
+C:\Users\sahid\source\repos\ManejoDeCadenas\ManejoDeCadenas\bin\Debug\net8.0\ManejoDeCadenas.exe
+C:\Users\sahid\source\repos\ManejoDeCadenas\ManejoDeCadenas\bin\Debug\net8.0\ManejoDeCadenas.deps.json
+C:\Users\sahid\source\repos\ManejoDeCadenas\ManejoDeCadenas\bin\Debug\net8.0\ManejoDeCadenas.runtimeconfig.json
+C:\Users\sahid\source\repos\ManejoDeCadenas\ManejoDeCadenas\bin\Debug\net8.0\ManejoDeCadenas.dll
+C:\Users\sahid\source\repos\ManejoDeCadenas\ManejoDeCadenas\bin\Debug\net8.0\ManejoDeCadenas.pdb
+C:\Users\sahid\source\repos\ManejoDeCadenas\ManejoDeCadenas\obj\Debug\net8.0\ManejoDeCadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahid\source\repos\ManejoDeCadenas\ManejoDeCadenas\obj\Debug\net8.0\ManejoDeCadenas.AssemblyInfoInputs.cache
+C:\Users\sahid\source\repos\ManejoDeCadenas\ManejoDeCadenas\obj\Debug\net8.0\ManejoDeCadenas.AssemblyInfo.cs
+C:\Users\sahid\source\repos\ManejoDeCadenas\ManejoDeCadenas\obj\Debug\net8.0\ManejoDeCadenas.csproj.CoreCompileInputs.cache
+C:\Users\sahid\source\repos\ManejoDeCadenas\ManejoDeCadenas\obj\Debug\net8.0\ManejoDeCadenas.dll
+C:\Users\sahid\source\repos\ManejoDeCadenas\ManejoDeCadenas\obj\Debug\net8.0\refint\ManejoDeCadenas.dll
+C:\Users\sahid\source\repos\ManejoDeCadenas\ManejoDeCadenas\obj\Debug\net8.0\ManejoDeCadenas.pdb
+C:\Users\sahid\source\repos\ManejoDeCadenas\ManejoDeCadenas\obj\Debug\net8.0\ManejoDeCadenas.genruntimeconfig.cache
+C:\Users\sahid\source\repos\ManejoDeCadenas\ManejoDeCadenas\obj\Debug\net8.0\ref\ManejoDeCadenas.dll

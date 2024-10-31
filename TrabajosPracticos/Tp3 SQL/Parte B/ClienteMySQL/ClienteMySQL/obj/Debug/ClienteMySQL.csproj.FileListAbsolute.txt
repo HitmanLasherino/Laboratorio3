@@ -1,0 +1,12 @@
+C:\Users\sahid\source\repos\ClienteMySQL\ClienteMySQL\bin\Debug\ClienteMySQL.exe.config
+C:\Users\sahid\source\repos\ClienteMySQL\ClienteMySQL\bin\Debug\ClienteMySQL.exe
+C:\Users\sahid\source\repos\ClienteMySQL\ClienteMySQL\bin\Debug\ClienteMySQL.pdb
+C:\Users\sahid\source\repos\ClienteMySQL\ClienteMySQL\bin\Debug\MySql.Data.dll
+C:\Users\sahid\source\repos\ClienteMySQL\ClienteMySQL\obj\Debug\ClienteMySQL.csproj.AssemblyReference.cache
+C:\Users\sahid\source\repos\ClienteMySQL\ClienteMySQL\obj\Debug\ClienteMySQL.Form1.resources
+C:\Users\sahid\source\repos\ClienteMySQL\ClienteMySQL\obj\Debug\ClienteMySQL.Properties.Resources.resources
+C:\Users\sahid\source\repos\ClienteMySQL\ClienteMySQL\obj\Debug\ClienteMySQL.csproj.GenerateResource.cache
+C:\Users\sahid\source\repos\ClienteMySQL\ClienteMySQL\obj\Debug\ClienteMySQL.csproj.CoreCompileInputs.cache
+C:\Users\sahid\source\repos\ClienteMySQL\ClienteMySQL\obj\Debug\ClienteM.D28B0606.Up2Date
+C:\Users\sahid\source\repos\ClienteMySQL\ClienteMySQL\obj\Debug\ClienteMySQL.exe
+C:\Users\sahid\source\repos\ClienteMySQL\ClienteMySQL\obj\Debug\ClienteMySQL.pdb

@@ -1,0 +1,15 @@
+C:\Users\Hitman\Documents\NetBeansProjects\ProyectoFinalJPA\laboratorio-lll\TrabajoPractico1\obj\Debug\net8.0\TrabajoPractico1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hitman\Documents\NetBeansProjects\ProyectoFinalJPA\laboratorio-lll\TrabajoPractico1\obj\Debug\net8.0\TrabajoPractico1.AssemblyInfoInputs.cache
+C:\Users\Hitman\Documents\NetBeansProjects\ProyectoFinalJPA\laboratorio-lll\TrabajoPractico1\obj\Debug\net8.0\TrabajoPractico1.AssemblyInfo.cs
+C:\Users\Hitman\Documents\NetBeansProjects\ProyectoFinalJPA\laboratorio-lll\TrabajoPractico1\obj\Debug\net8.0\TrabajoPractico1.csproj.CoreCompileInputs.cache
+C:\Users\Hitman\Documents\NetBeansProjects\ProyectoFinalJPA\laboratorio-lll\TrabajoPractico1\obj\Debug\net8.0\TrabajoPractico1.sourcelink.json
+C:\Users\Hitman\Documents\NetBeansProjects\ProyectoFinalJPA\laboratorio-lll\TrabajoPractico1\bin\Debug\net8.0\TrabajoPractico1.exe
+C:\Users\Hitman\Documents\NetBeansProjects\ProyectoFinalJPA\laboratorio-lll\TrabajoPractico1\bin\Debug\net8.0\TrabajoPractico1.deps.json
+C:\Users\Hitman\Documents\NetBeansProjects\ProyectoFinalJPA\laboratorio-lll\TrabajoPractico1\bin\Debug\net8.0\TrabajoPractico1.runtimeconfig.json
+C:\Users\Hitman\Documents\NetBeansProjects\ProyectoFinalJPA\laboratorio-lll\TrabajoPractico1\bin\Debug\net8.0\TrabajoPractico1.dll
+C:\Users\Hitman\Documents\NetBeansProjects\ProyectoFinalJPA\laboratorio-lll\TrabajoPractico1\bin\Debug\net8.0\TrabajoPractico1.pdb
+C:\Users\Hitman\Documents\NetBeansProjects\ProyectoFinalJPA\laboratorio-lll\TrabajoPractico1\obj\Debug\net8.0\TrabajoPractico1.dll
+C:\Users\Hitman\Documents\NetBeansProjects\ProyectoFinalJPA\laboratorio-lll\TrabajoPractico1\obj\Debug\net8.0\refint\TrabajoPractico1.dll
+C:\Users\Hitman\Documents\NetBeansProjects\ProyectoFinalJPA\laboratorio-lll\TrabajoPractico1\obj\Debug\net8.0\TrabajoPractico1.pdb
+C:\Users\Hitman\Documents\NetBeansProjects\ProyectoFinalJPA\laboratorio-lll\TrabajoPractico1\obj\Debug\net8.0\TrabajoPractico1.genruntimeconfig.cache
+C:\Users\Hitman\Documents\NetBeansProjects\ProyectoFinalJPA\laboratorio-lll\TrabajoPractico1\obj\Debug\net8.0\ref\TrabajoPractico1.dll

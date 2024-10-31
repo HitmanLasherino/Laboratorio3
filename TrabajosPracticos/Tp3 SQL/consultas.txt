@@ -1,0 +1,80 @@
+SELECT * FROM city;
+
+SELECT Name, Population FROM city;
+
+SELECT Name, Population FROM city LIMIT 10;
+
+SELECT Name, Population FROM city GROUP BY Name;
+
+SELECT District, AVG(Population) FROM city GROUP BY District ORDER BY District;
+
+SELECT CountryCode, SUM(Population) FROM city GROUP BY CountryCode;
+
+SELECT Name, Population FROM city WHERE Population > 100000;
+
+SELECT Name, Population FROM city WHERE Population < 100000;
+
+SELECT Name, Population FROM city WHERE Population > 100000 AND Population < 10000000;
+SELECT Name, Population FROM city WHERE Population BETWEEN 100001 AND 9999999;
+
+SELECT Name, CountryCode FROM city WHERE CountryCode = 'NLD';
+
+SELECT Name, CountryCode FROM city WHERE CountryCode = 'AFG' OR CountryCode = 'CAN' OR CountryCode = 'MEX';
+
+SELECT Name, CountryCode FROM city WHERE Name LIKE 'P%';
+
+SELECT Name, countryCode FROM city WHERE Name LIKE '%P';
+
+SELECT Name, CountryCode FROM city WHERE Name LIKE '%MA%';
+
+SELECT SUM(population) FROM city;
+
+SELECT AVG(population) FROM city;
+
+SELECT COUNT(*) FROM city;
+
+SELECT MAX(Population) FROM city;
+
+SELECT MIN(Population) FROM city;
+
+INSERT INTO city (Name, CountryCode, District, Population) 
+VALUES ('TUNUYAN', 'ARG', 'Mendoza', 110000);
+
+INSERT INTO country (Name, Code, Capital) 
+VALUES ('Mendoza', 'MZA', (SELECT ID FROM city WHERE Name = 'TUNUYAN'));
+
+UPDATE city SET Name = 'TUPUNGATO' WHERE Name = 'TUNUYAN';
+
+UPDATE countrylanguage SET language = 'espaniol' WHERE language = 'Spanish';
+
+DELETE FROM country WHERE Name = 'Mendoza';
+
+DELETE FROM city WHERE Name = 'TUPUNGATO';
+
+SELECT city.Name, city.District, country.Name FROM city 
+JOIN country ON city.CountryCode = country.Code 
+WHERE city.Name = 'Buenos Aires';
+
+SELECT city.Name, city.District, country.Name, countrylanguage.Language FROM city
+JOIN country ON city.CountryCode = country.Code
+JOIN countrylanguage ON country.Code = countrylanguage.CountryCode
+WHERE city.CountryCode = 'ARG' ORDER BY city.District;
+
+SELECT city.*, country.*, countrylanguage.* FROM city
+INNER JOIN country ON city.CountryCode = country.Code
+INNER JOIN countrylanguage ON country.Code = countrylanguage.CountryCode;
+
+SELECT city.*, country.*, countrylanguage.* FROM country
+INNER JOIN city ON country.Code = city.CountryCode
+INNER JOIN countrylanguage ON country.Code = countrylanguage.CountryCode
+WHERE country.Code = 'ARG';
+
+SELECT city.*, country.*, countrylanguage.* FROM city
+INNER JOIN country ON city.CountryCode = country.Code
+INNER JOIN countrylanguage ON country.Code = countrylanguage.CountryCode
+WHERE countrylanguage.language IN ('English', 'Spanish', 'Portuguese') 
+OR country.Population > 1000000;
+
+SELECT country.*, countrylanguage.* FROM country
+LEFT JOIN countrylanguage ON country.Code = countrylanguage.CountryCode
+WHERE countrylanguage.IsOfficial = 'T';

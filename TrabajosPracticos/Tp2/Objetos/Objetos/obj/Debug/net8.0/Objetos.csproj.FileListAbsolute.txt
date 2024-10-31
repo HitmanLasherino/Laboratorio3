@@ -1,0 +1,14 @@
+C:\Users\sahid\source\repos\Objetos\Objetos\bin\Debug\net8.0\Objetos.exe
+C:\Users\sahid\source\repos\Objetos\Objetos\bin\Debug\net8.0\Objetos.deps.json
+C:\Users\sahid\source\repos\Objetos\Objetos\bin\Debug\net8.0\Objetos.runtimeconfig.json
+C:\Users\sahid\source\repos\Objetos\Objetos\bin\Debug\net8.0\Objetos.dll
+C:\Users\sahid\source\repos\Objetos\Objetos\bin\Debug\net8.0\Objetos.pdb
+C:\Users\sahid\source\repos\Objetos\Objetos\obj\Debug\net8.0\Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahid\source\repos\Objetos\Objetos\obj\Debug\net8.0\Objetos.AssemblyInfoInputs.cache
+C:\Users\sahid\source\repos\Objetos\Objetos\obj\Debug\net8.0\Objetos.AssemblyInfo.cs
+C:\Users\sahid\source\repos\Objetos\Objetos\obj\Debug\net8.0\Objetos.csproj.CoreCompileInputs.cache
+C:\Users\sahid\source\repos\Objetos\Objetos\obj\Debug\net8.0\Objetos.dll
+C:\Users\sahid\source\repos\Objetos\Objetos\obj\Debug\net8.0\refint\Objetos.dll
+C:\Users\sahid\source\repos\Objetos\Objetos\obj\Debug\net8.0\Objetos.pdb
+C:\Users\sahid\source\repos\Objetos\Objetos\obj\Debug\net8.0\Objetos.genruntimeconfig.cache
+C:\Users\sahid\source\repos\Objetos\Objetos\obj\Debug\net8.0\ref\Objetos.dll

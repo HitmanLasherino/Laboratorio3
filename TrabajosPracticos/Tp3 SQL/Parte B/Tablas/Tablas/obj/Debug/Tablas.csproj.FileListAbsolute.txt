@@ -1,0 +1,12 @@
+C:\Users\sahid\source\repos\Tablas\Tablas\bin\Debug\Tablas.exe.config
+C:\Users\sahid\source\repos\Tablas\Tablas\bin\Debug\Tablas.exe
+C:\Users\sahid\source\repos\Tablas\Tablas\bin\Debug\Tablas.pdb
+C:\Users\sahid\source\repos\Tablas\Tablas\bin\Debug\MySql.Data.dll
+C:\Users\sahid\source\repos\Tablas\Tablas\obj\Debug\Tablas.csproj.AssemblyReference.cache
+C:\Users\sahid\source\repos\Tablas\Tablas\obj\Debug\Tablas.Form1.resources
+C:\Users\sahid\source\repos\Tablas\Tablas\obj\Debug\Tablas.Properties.Resources.resources
+C:\Users\sahid\source\repos\Tablas\Tablas\obj\Debug\Tablas.csproj.GenerateResource.cache
+C:\Users\sahid\source\repos\Tablas\Tablas\obj\Debug\Tablas.csproj.CoreCompileInputs.cache
+C:\Users\sahid\source\repos\Tablas\Tablas\obj\Debug\Tablas.csproj.Up2Date
+C:\Users\sahid\source\repos\Tablas\Tablas\obj\Debug\Tablas.exe
+C:\Users\sahid\source\repos\Tablas\Tablas\obj\Debug\Tablas.pdb
